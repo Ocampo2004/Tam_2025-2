@@ -1,0 +1,4 @@
+Para la solución del punto 3 realizamos el entrenamiento para un agente aleatorio y para 2 entrenamientos de dos agentes con diferentes enfoques y recompensas : 
+
+    1. El primero esta entrenado de forma que la recompensa es mayor cuando mata un enemigo. 
+    2. El segundo esta entrenado de forma que la recompensa es mayor para llegar a la meta final.
